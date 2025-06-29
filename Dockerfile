@@ -1,7 +1,7 @@
 FROM node:18-alpine
 
 # Instalar dependencias del sistema para Puppeteer
-RUN apk add --no-cache \
+RUN npm ci --omit=dev
     chromium \
     nss \
     freetype \

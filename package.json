@@ -1,5 +1,5 @@
 {
-  "name": "html2pdf-service",
+  "name": "HTML2PDF",
   "version": "1.0.0",
   "description": "HTML to PDF conversion service using Puppeteer",
   "main": "index.js",
